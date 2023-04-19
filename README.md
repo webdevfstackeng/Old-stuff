@@ -1,5 +1,3 @@
-# cse210-student-template
-
 Kgotla Ephraim Boabilwe
 
 This is the starter code for students in CSE 210.
